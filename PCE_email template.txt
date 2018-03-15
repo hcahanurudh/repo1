@@ -1,0 +1,16 @@
+Dear Sir/Madam
+Greetings from Health Care at Home India Pvt. Ltd.
+
+Your patient <Patient Name> (<Patient ID>) has been availing our Home Healthcare Services. As part of our regular health update process, we would like to present Home Visit Report (HVR) from <From date> to <To date>.
+Patient Summary 
+Service Subscribed	 :
+Service Package ID	 :
+Service Package Start Date	 :
+Diagnosis	 : 
+
+Please find attached the Home Visit Report for the Doctor’s review and expert advice so that best clinical care is rendered to the patient.
+
+We would be happy to hear in case of any queries or suggestions.
+
+Best Regards
+Patient Care Desk
